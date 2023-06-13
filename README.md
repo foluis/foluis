@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there I'm Luis Fernando👋
+
+![](https://t8589050.p.clickup-attachments.com/t8589050/cc7b0a09-b960-40a5-8cc5-284a4654d831/image.png)
+
+I am a seasoned Team Leader with over 15 years of experience in managing and executing technology projects. My expertise includes team building, analysis, design, construction, implementation, and testing of software products and information systems, with a specialization in Software Architecture.
+
+As a self-motivated individual with a passion for continuous learning, I am always eager to expand my knowledge and skills. I thrive in team environments and possess extensive experience leading multidisciplinary teams to success.
+
+I am currently seeking new challenges that allow me to apply my skills and knowledge to further enhance my professional growth while delivering exceptional results.
 
 <!--
 **foluis/foluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
